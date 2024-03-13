@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "stripe": "^14.20.0",
+    "uuid": "^9.0.1"
+  }
+}
